@@ -26,5 +26,6 @@ VOLUME- The VOLUMNE is the volume of transactions on the given day.
 
 MARKET CAP- The MARKET CAP is the market capitalization in USD.
 
+![Screenshot_20230101_025439](https://user-images.githubusercontent.com/120455099/210155927-aadf46db-7f99-4560-88e4-dab2c30c891f.png)
 
-
+For more details, prefer 
